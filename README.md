@@ -1,7 +1,7 @@
 # 🛰️ ShootEmRocks
 *Quick Prototype of the classic game Asteroids in C++ and SFML*
 
-[![Watch the Gameplay Video](https://vumbnail.com/1072605696.jpg)](https://vimeo.com/1072605696)
+[![Watch the Gameplay Video](https://vumbnail.com/1072605696)](https://vimeo.com/1072605696)
 ---
 
 ## 🎮 Gameplay
