@@ -29,6 +29,25 @@
 
 ---
 
+## ⚙️ Systems Design
+The game is built around modular components that interact in real-time using SFML's rendering and event systems:
+
+### 🔸 Core Systems
+- **Game Loop:** A fixed timestep loop ensures consistent updates across systems.
+- **Event Handling:** Uses SFML’s event polling to process input efficiently.
+- **Collision Detection:** Uses SFML's built-in sprite bounding boxes to detect collisions.
+- **Entity Management:** Entities (Player, Asteroids, Bullets) are stored in vectors and updated each frame.
+- **Rendering System:** Uses SFML sprites and textures for visuals.
+
+### 🔸 Gameplay Systems
+- **Asteroid Spawner:** Spawns asteroids with random sizes and velocities.
+- **Bullet Pooling:** Dynamically adds bullets with a lifetime and updates their position.
+- **Score Manager:** Increments score based on asteroid hits.
+- **Health System:** Tracks player health and triggers game-over logic.
+
+
+---
+
 ## 🖥️ Building from Source
 If you want to compile the game yourself:
 
