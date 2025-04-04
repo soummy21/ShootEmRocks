@@ -25,8 +25,8 @@
 3. Extract the ZIP folder.  
 4. Double-click `ShootEmRocks.exe` to play! 🎮  
 
-💡 **Note:** Make sure all `.dll` files are in the same folder as the `.exe` for the game to run correctly.  
-⚠ **Windows Warning:** When running the `.exe`, Windows may show a security warning about an unknown publisher. Click **'More Info' → 'Run Anyway'** to proceed.
+💡 *Note:* Make sure all `.dll` files are in the same folder as the `.exe` for the game to run correctly.  
+⚠ *Windows Warning:* When running the `.exe`, Windows may show a security warning about an unknown publisher. Click **'More Info' → 'Run Anyway'** to proceed.
 ---
 
 ## ⚙️ Systems Design
