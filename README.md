@@ -62,7 +62,7 @@ If you want to compile the game yourself:
    git clone https://github.com/soummy21/ShootEmRocks.git
    cd ShootEmRocks
    ```
-2. Open `Asteroids.sln` in Visual Studio.  
+2. Open `ShootEmRocks.sln` in Visual Studio.  
 3. Set **build configuration** to `Release`.  
 4. Click **Build → Build Solution (Ctrl + Shift + B)**.  
 5. Run the compiled `.exe` from `x64/Release/`.  
